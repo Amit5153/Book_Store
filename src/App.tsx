@@ -21,7 +21,7 @@ const App: React.FC = () => {
       <TestimonialsSection />
       <Footer />
 
-      {/* Add more components here as needed */}
+
     </div>
   );
 };
