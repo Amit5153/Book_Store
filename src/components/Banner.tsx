@@ -17,7 +17,7 @@ const Banner: React.FC = () => {
         </button>
       </div>
 
-      <div className="flex-shrink-0 h-40 md:h-50 mt-6 md:mt-0">
+      <div className="flex-shrink-0 h-60 md:h-50 mt-6 md:mt-0">
         <img src="image/sample-1.png" alt="Sample Image" className="h-full w-auto max-w-xs md:max-w-none" />
       </div>
     </section>
