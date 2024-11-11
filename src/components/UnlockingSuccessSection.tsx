@@ -14,7 +14,7 @@ const UnlockingSuccessSection : React.FC = () => {
       
       <div className="grid gap-8 sm:grid-cols-2 lg:grid-cols-4">
         <div className="text-center space-y-4">
-          <img src="public/image/expert-team.png" alt="Expert Team" className="mx-auto h-12 w-12" />
+          <img src="image/expert-team.png" alt="Expert Team" className="mx-auto h-12 w-12" />
           <h3 className="text-lg font-semibold text-blue-800">Expert Team</h3>
           <p className="text-gray-600">
             Collaborate with a team of professionals including Certified QuickBooks ProAdvisor bookkeepers and Xero-Certified Advisors.
@@ -25,7 +25,7 @@ const UnlockingSuccessSection : React.FC = () => {
 
        
         <div className="text-center space-y-4">
-          <img src="public/image/efficient-process.png" alt="Efficient Process" className="mx-auto h-12 w-12" />
+          <img src="image/efficient-process.png" alt="Efficient Process" className="mx-auto h-12 w-12" />
           <h3 className="text-lg font-semibold text-blue-800">Efficient Process</h3>
           <p className="text-gray-600">
             Our process is swift, accurate, and seamless, handled by a dedicated team of qualified accountants.
@@ -35,7 +35,7 @@ const UnlockingSuccessSection : React.FC = () => {
 
        
         <div className="text-center space-y-4">
-          <img src="public/image/advanced-systems.png" alt="Advanced Systems" className="mx-auto h-12 w-12" />
+          <img src="image/advanced-systems.png" alt="Advanced Systems" className="mx-auto h-12 w-12" />
           <h3 className="text-lg font-semibold text-blue-800">Advanced Systems</h3>
           <p className="text-gray-600">
             We use industry-leading accounting software like QuickBooks and Xero for seamless bookkeeping.
@@ -45,7 +45,7 @@ const UnlockingSuccessSection : React.FC = () => {
 
   
         <div className="text-center space-y-4">
-          <img src="public/image/robust-security.png" alt="Robust Data Security" className="mx-auto h-12 w-12" />
+          <img src="image/robust-security.png" alt="Robust Data Security" className="mx-auto h-12 w-12" />
           <h3 className="text-lg font-semibold text-blue-800">Robust Data Security</h3>
           <p className="text-gray-600">
             Your data is safeguarded with 256-bit SSL/TLS encryption and secure document storage.
