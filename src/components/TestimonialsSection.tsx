@@ -58,7 +58,7 @@ const TestimonialsSection: React.FC = () => {
           <iframe
             width="100%"
             height="180"
-            src="https://www.youtube.com/watch?v=UfRQ25W2J5Y"
+            src="https://www.youtube.com"
             title="Client Testimonial 1"
             className="rounded-md"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -84,7 +84,7 @@ const TestimonialsSection: React.FC = () => {
       
       <p className="text-center mt-8 text-lg font-medium text-blue-800">
         Our customers say Excellent <span className="font-bold">4.6 out of 5</span> based on 153 reviews
-        <img src="public/image/image.png" alt="Rating" className="inline-block ml-2 w-22 h-8 align-middle" />
+        <img src="image/image.png" alt="Rating" className="inline-block ml-2 w-22 h-8 align-middle" />
       </p>
 
     </section>
