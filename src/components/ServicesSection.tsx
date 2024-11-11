@@ -33,14 +33,14 @@ const ServicesSection: React.FC = () => {
         
         
         <div className="flex-1 flex flex-wrap justify-center md:justify-start items-center gap-4">
-          <img src="public/image/bbb2.png" alt="BBB Accredite Business" className="h-12 w-auto" />
-          <img src="public/image/2-badge-advanced-online-large.png" className="h-20 w-auto" />
-          <img src="public/image/freshbooks-logo.png" alt="QuickBooks ProAdvisor" className="h-12 w-auto" />
-          <img src="public/image/intuit.png" alt="Intuit Authorized Reseller" className="h-12 w-auto" />
-          <img src="public/image/netsuite-logo.png" alt="Citrix ShareFile" className="h-12 w-auto" />
-          <img src="public/image/xero-platinum.png" alt="Xero Platinum Partner" className="h-12 w-auto" />
-          <img src="public/image/wave-logo.png" alt="Xero Partner" className="h-12 w-auto" />
-          <img src="public/image/zoho-logo.png" alt="Xero Certified Advisor" className="h-12 w-auto" />
+          <img src="image/bbb2.png" alt="BBB Accredite Business" className="h-12 w-auto" />
+          <img src="image/2-badge-advanced-online-large.png" className="h-20 w-auto" />
+          <img src="image/freshbooks-logo.png" alt="QuickBooks ProAdvisor" className="h-12 w-auto" />
+          <img src="image/intuit.png" alt="Intuit Authorized Reseller" className="h-12 w-auto" />
+          <img src="image/netsuite-logo.png" alt="Citrix ShareFile" className="h-12 w-auto" />
+          <img src="image/xero-platinum.png" alt="Xero Platinum Partner" className="h-12 w-auto" />
+          <img src="image/wave-logo.png" alt="Xero Partner" className="h-12 w-auto" />
+          <img src="image/zoho-logo.png" alt="Xero Certified Advisor" className="h-12 w-auto" />
         </div>
       </div>
     </section>
