@@ -25,7 +25,7 @@ const UnlockingSuccessSection : React.FC = () => {
 
        
         <div className="text-center space-y-4">
-          <img src="image/efficient-process.png" alt="Efficient Process" className="mx-auto h-12 w-12" />
+          <img src="image/wave-logo.png" alt="Efficient Process" className="mx-auto h-12 w-12" />
           <h3 className="text-lg font-semibold text-blue-800">Efficient Process</h3>
           <p className="text-gray-600">
             Our process is swift, accurate, and seamless, handled by a dedicated team of qualified accountants.
