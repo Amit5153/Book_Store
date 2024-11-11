@@ -2,11 +2,10 @@ import React from 'react';
 
 const Banner: React.FC = () => {
   return (
-    <section className="relative bg-blue-700 text-white p-10  px-18 flex items-center justify-between">
-     
-
-      <div className="max-w-lg text-left">
-        <h2 className="text-3xl font-bold mb-4">
+    <section className="relative bg-blue-700 text-white p-6 md:p-10 lg:px-18 flex flex-col md:flex-row items-center justify-between">
+      
+      <div className="text-center md:text-left max-w-lg">
+        <h2 className="text-2xl md:text-3xl font-bold mb-4">
           Get The Expert Small Business Bookkeeping Services You Need
         </h2>
         <p className="mb-6">
@@ -18,14 +17,12 @@ const Banner: React.FC = () => {
         </button>
       </div>
 
-    
-      <div className="flex-shrink-0 h-50">
-        <img src="public/image/sample-1.png" alt="Sample Image" className="h-80 w-auto" />
+      <div className="flex-shrink-0 h-40 md:h-50 mt-6 md:mt-0">
+        <img src="public/image/sample-1.png" alt="Sample Image" className="h-full w-auto max-w-xs md:max-w-none" />
       </div>
-
-      
     </section>
   );
 };
 
 export default Banner;
+
